@@ -36,5 +36,3 @@
 [Кудряшов Никита](https://t.me/meoskis)
 
 [Заболотная Татьяна](https://t.me/tanushaaz)
-
-```
